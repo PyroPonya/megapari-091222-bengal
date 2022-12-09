@@ -24,7 +24,7 @@
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  animation: volley 1s infinite alternate;
+  animation: volley 0.9s infinite alternate;
   animation-delay: 0.3s, 0s;
 }
 .baseball {
@@ -37,7 +37,7 @@
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  animation: base 1s infinite alternate;
+  animation: base 0.9s infinite alternate;
   animation-delay: 0.9s, 0s;
 }
 .football {
@@ -50,7 +50,7 @@
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  animation: foot 1s infinite alternate;
+  animation: foot 0.9s infinite alternate;
   animation-delay: 0.6s, 0s;
 }
 

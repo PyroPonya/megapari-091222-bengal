@@ -194,7 +194,7 @@ export default {
   color: #ffffff;
   height: 86px;
   width: 373px;
-  animation: breath 1.2s infinite alternate;
+  animation: breath 0.9s infinite alternate;
   animation-delay: 0.3s, 0s;
   -webkit-transform: skew(-20deg);
   -moz-transform: skew(-20deg);
