@@ -5,12 +5,12 @@
       <div v-for="(el, id) in fatText" :key="id" :class="el" class="num"></div>
     </div>
     <div class="desc">প্রথম জমাতে 100% বোনাস পান</div>
-    <a href="https://www.megapari.com/registration">
+    <a href="https://m6748923.xyz/ru/registration?tag=d_1914807m_30577c_&pb=4548d857729740efae8407358e226802&click_id=%7bclick_id%7d&partner_id=%7bpartner_id%7d&r=registration">
       <div class="btn">
         <div class="btn_text">একটি বোনাস পান</div>
       </div>
     </a>
-    <a v-if="false" href="">
+    <a v-if="false" href="https://m6748923.xyz/ru/registration?tag=d_1914807m_30577c_&pb=4548d857729740efae8407358e226802&click_id=%7bclick_id%7d&partner_id=%7bpartner_id%7d&r=registration">
       <div class="btn_desc">কিভাবে রিসিভ করবেন 125000 BDT</div>
     </a>
   </div>
